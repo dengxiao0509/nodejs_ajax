@@ -1,0 +1,42 @@
+﻿body {
+	max-width: 900px;
+	margin: auto;
+	font-family: Sans-serif;
+	background-color: lightgrey;
+    font-size:20px;
+}
+
+
+#main{
+    
+    padding-top:100px;
+    padding-bottom:300px;
+    background-color:aliceblue;
+    border-radius: 20px;
+  
+    
+   
+}
+
+.fileDiv {
+
+    float:left;
+    border-radius:10px;
+    border-width:1px;
+    border-color:yellow;
+    border-style:solid;  
+    background-color:lightyellow;
+    padding:10px;
+}
+ul {
+
+    list-style-type:none;
+    
+}
+
+table,th,td {
+border: 1px solid black;
+border-collapse:collapse;
+}
+
+
